@@ -14,4 +14,4 @@ En espera
 ### Licencia
 Distribuido bajo Licencia MIT. Consulta ´LICENSE´ para obtener más información.
 ### Contacto
-Alejandra Romero: [Mi LinkedIn](www.linkedin.com/in/alejandraromji)
+Alejandra Romero: [Mi LinkedIn](https://www.linkedin.com/feed/)
