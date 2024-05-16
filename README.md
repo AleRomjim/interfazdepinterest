@@ -10,7 +10,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 + **Google Fonts:** Para fuentes personalizadas.
 ### Vista Previa del Proyecto
-En espera
+![Demo](imagenes/ScreenshotClonPinterest.png)
 ### Licencia
 Distribuido bajo Licencia MIT. Consulta ´LICENSE´ para obtener más información.
 ### Contacto
